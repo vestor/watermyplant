@@ -3,7 +3,7 @@ name: Build
 jobs:
   release-linux-arm7:
     name: release linux/arm7
-    runs-on: arm7
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: compile and release
