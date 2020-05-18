@@ -16,12 +16,12 @@ This is also an exercise to:
 Later
 
 ### TODO
- -[x] Implement the authentication
-    -[x] Use JWT 
-    -[x] Implement secure APIs
- -[ ] Add license
- -[ ] Add "How" section in README 
- -[ ] Move to REDIS as the persistence store
- -[ ] Use time-series for water logs 
- -[ ] Enable live-streaming of plant
- -[ ] Stress test the system
+ - [x] Implement the authentication
+    - [x] Use JWT 
+    - [x] Implement secure APIs
+ - [ ] Add license
+ - [ ] Add "How" section in README 
+ - [ ] Move to REDIS as the persistence store
+ - [ ] Use time-series for water logs 
+ - [ ] Enable live-streaming of plant
+ - [ ] Stress test the system
